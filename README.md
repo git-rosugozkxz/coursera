@@ -1,2 +1,2 @@
 # coursera
-IBM Data Science class
+IBM Data Science class: Capstone Project
